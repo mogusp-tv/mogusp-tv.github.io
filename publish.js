@@ -53,6 +53,9 @@ for(var i =0;i<urls.length*3;i++){
 
 var otherUrls = [
 	'https://mogusp-tv.github.io',
+	'https://mogusp1.tv',
+	'https://mogusp2.tv',
+	'https://mogusp3.tv',
 ];
 var foreverUrls = [
     'https://mogusp.tv',JumpPage
