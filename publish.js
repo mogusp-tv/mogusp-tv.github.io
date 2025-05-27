@@ -52,7 +52,7 @@ for(var i =0;i<urls.length*3;i++){
 }
 
 var otherUrls = [
-	'https://mogusp.github.io',
+	'https://mogusp-tv.github.io',
 ];
 var foreverUrls = [
     'https://mogusp.tv',JumpPage
